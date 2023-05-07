@@ -1,0 +1,1 @@
+This is where the license for some of the code that I use for this repository is stored.
