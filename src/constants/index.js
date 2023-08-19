@@ -42,15 +42,15 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Penetration Tester",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Udemy Instructor",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Kindle Author",
       icon: backend,
     },
     {
@@ -116,8 +116,8 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Freelance Website Penetration Tester",
+      company_name: "Self Employed",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
@@ -129,8 +129,8 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Udemy Instructor",
+      company_name: "Udemy",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
