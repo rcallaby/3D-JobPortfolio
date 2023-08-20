@@ -120,12 +120,10 @@ import {
       company_name: "Self Employed",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "September 2019 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+          "Currently, I perform website vulnerability tests and inform clients of their vulnerabilities using industry standard best practices",
+          "As well, I work on several bug bounty programs to help major corporations to find website vulnerabilities using their standardized reporting practices",
       ],
     },
     {
@@ -172,18 +170,18 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "Richard demonstrated from early in his tenure that he understood what business is all about. He was well organized. He was quite aware of the bottom line, and had a knack for recognizing and eliminating waste.", 
+      name: "Leroi Palmer",
+      designation: "Founder",
+      company: "BOD at Inno-Q",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+        "Richard is a passionate writer and an avid blogger. He is highly motivated and has a skill set which helps and inspires others to achieve their goals. ",
+      name: "Himanshu Prasad",
+      designation: "Actor",
+      company: "Coach",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
