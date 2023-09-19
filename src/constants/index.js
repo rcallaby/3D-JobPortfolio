@@ -140,29 +140,27 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Kindle Author",
+      company_name: "Amazon",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "I am presently an author with a substantial portfolio of works available on Amazon Kindle. ",
+        "In the interest of maintaining content quality, I have made the decision to temporarily withdraw some of my books from the platform to facilitate necessary updates.",
+        "At this time, my primary focus revolves around the creation of a new series of non-fiction books, predominantly comprising instructive tutorials. ",
+        "These forthcoming publications will predominantly delve into topics such as Linux, Microsoft Azure, and Visual Studio Code.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "YouTuber/Content Creator",
+      company_name: "Google/Alphabet",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "I make review videos on technology and also educational tutorial videos on Linux, Programming, Ethical Hacking, and so on.",
+        "I am considering making YouTube my primary platform for my courses and moving away from Udemy.",
       ],
     },
   ];
@@ -186,11 +184,11 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Great service! Very clear writer and attentive editor!",
+      name: "Kevin Burcroft, MBA",
+      designation: "QAD Technical Product Manager",
+      company: "Syndicate One Group",
+      image: "https://randomuser.me/api/portraits/men/6.jpg",
     },
   ];
   
