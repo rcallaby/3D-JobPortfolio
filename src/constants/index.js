@@ -124,6 +124,7 @@ import {
       points: [
           "Currently, I perform website vulnerability tests and inform clients of their vulnerabilities using industry standard best practices",
           "As well, I work on several bug bounty programs to help major corporations to find website vulnerabilities using their standardized reporting practices",
+          "Currently, I am honing my defensive skills so that I could become a more well rounded security consultant."
       ],
     },
     {
@@ -144,7 +145,7 @@ import {
       company_name: "Amazon",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jan 2022 - Present",
       points: [
         "I am presently an author with a substantial portfolio of works available on Amazon Kindle. ",
         "In the interest of maintaining content quality, I have made the decision to temporarily withdraw some of my books from the platform to facilitate necessary updates.",
@@ -161,6 +162,7 @@ import {
       points: [
         "I make review videos on technology and also educational tutorial videos on Linux, Programming, Ethical Hacking, and so on.",
         "I am considering making YouTube my primary platform for my courses and moving away from Udemy.",
+        "My current focus is to create many more long form informative tutorials, and well as some very compelling and informative YouTube shorts"
       ],
     },
   ];
