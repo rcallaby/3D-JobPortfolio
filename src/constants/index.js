@@ -196,9 +196,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "C# Interview Questions",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "An open source guide that helps train people for their upcoming job interview in which C# is used.",
       tags: [
         {
           name: "react",
@@ -214,12 +214,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rcallaby/CSharp-Interview-Questions",
     },
     {
-      name: "Job IT",
+      name: "Learn Vim and NeoVIM",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "An open source tutorial on learning Vim and NeoVIM. This is meant to teach you from a beginner level to an expert level.",
       tags: [
         {
           name: "react",
@@ -235,7 +235,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rcallaby/Learn-Vim-and-NeoVim",
     },
     {
       name: "Trip Guide",
