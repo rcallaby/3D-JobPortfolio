@@ -47,10 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      I am a multi-faceted professional with roles as an instructor, security researcher, and developer. 
-      My primary objective lies in imparting a comprehensive understanding of technology to others, thereby making a meaningful impact on this planet.
-      With regard to the repository provided, it serves as an insightful showcase of some of the current and past projects I have undertaken. 
-      I sincerely hope you find it beneficial in your endeavors.
+      I wear a few different hats which is usually as an instructor, researcher, or developer. My real passion is teaching; 
+      I love breaking down how things work so others can use technology to make a difference.
+
+      This repository is a look into my workshop. It is a mix of projects I have built and things I am currently exploring. 
+      Take a look around you may find it useful
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
