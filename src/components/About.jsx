@@ -48,10 +48,10 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
       I wear a few different hats which is usually as an instructor, researcher, or developer. My real passion is teaching; 
-      I love breaking down how things work so others can use technology to make a difference.
+      I love breaking down how things work so others can use technology to make a difference.<br></br><br></br>
 
       This repository is a look into my workshop. It is a mix of projects I have built and things I am currently exploring. 
-      Take a look around you may find it useful
+      Take a look around, you may find it useful
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
